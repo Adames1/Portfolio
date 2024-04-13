@@ -153,7 +153,7 @@ img {
 /* HOME */
 .home {
     min-height: 100vh;
-    background-image: url(/img/bg-home-des.jpg);
+    background-image: url(../img/bg-home-des.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -637,7 +637,7 @@ footer {
         border-radius: 20px;
         transition: width .4s ease;
     }
-    
+
     .nav__item:hover .nav__link::before {
         width: 100%;
     }
