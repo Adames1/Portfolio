@@ -382,6 +382,13 @@ img {
     grid-gap: 1rem;
 }
 
+.portfolio__title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #AFAFAF;
+    width: max-content;
+}
+
 .content__project {
     position: relative;
     width: 100%;
