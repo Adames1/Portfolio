@@ -202,7 +202,7 @@ img {
 }
 
 .blob__img image {
-  width: 170px;
+  width: 180px;
   object-fit: cover;
 }
 
@@ -367,7 +367,7 @@ img {
 }
 
 .blob__about image {
-  width: 170px;
+  width: 180px;
 }
 
 /* PORTFOLIO */
