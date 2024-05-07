@@ -355,11 +355,11 @@ img {
 }
 
 .bar__skill.js::before {
-  width: 30%;
+  width: 50%;
 }
 
 .bar__skill.tw::before {
-  width: 0%;
+  width: 3%;
 }
 
 .blob__about {
